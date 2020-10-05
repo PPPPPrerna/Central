@@ -22,6 +22,8 @@ public class DateTest {
 			
 			System.out.println("Yeah");
 		}
+		
+		System.out.println("Cool");
 		System.out.println(num);
 	
 	}
