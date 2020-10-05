@@ -19,6 +19,8 @@ public class DateTest {
 		for(int i=1 ;i<num; i++) {
 			
 			num = num*i;
+			
+			System.out.println("Yeah");
 		}
 		System.out.println(num);
 	
